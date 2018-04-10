@@ -13,4 +13,4 @@ The challenge of the api was how to enter the data and going through the data to
 
 In this project i used jquery and the method ajax to enter de data of the api. For the design i used the framework of css Bootstrap 6.s
 
-
+Project made for laboratoria
