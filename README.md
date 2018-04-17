@@ -8,7 +8,9 @@
 
 This is the url of the Dark Sky Api https://darksky.net/dev
 
-The dark sky api show the weather in this case in Celsius degrees and some other characteristics, humidity, wind speed, pressure, uv index and also the weather prediction of the week.
+The dark sky api show the weather in this case in Celsius degrees and some other characteristics in this case humidity, wind speed, pressure, uv index and also the weather prediction of the week. 
+
+I used the geolocation that supports html5 to know the position in which you find and give you the climate of the point where you are. 
 
 The challenge of the api was how to enter the data and going through the data to obtain the specific data like humidity.
 
